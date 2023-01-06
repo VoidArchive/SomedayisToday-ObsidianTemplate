@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "da347bf8e63aa444",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb5797bb5160b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b726dc2ac25f6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22  Pessimists Die Knowing Only That They Were Correct. Optimists Thrive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d38982cd789b193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Compliment Box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fbea9565215d0f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f8570dc82b8ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db19817950e5ce2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c2cfc6aca805736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e38300d717584f28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3007c603208fd1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a3c54408f3412c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a254f7df2956285",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "22  Pessimists Die Knowing Only That They Were Correct. Optimists Thrive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e4866ae379b12da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "22  Pessimists Die Knowing Only That They Were Correct. Optimists Thrive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0de4454d2075eb82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d3e5289a9b291c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "22  Pessimists Die Knowing Only That They Were Correct. Optimists Thrive.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2b726dc2ac25f6fa",
+  "lastOpenFiles": [
+    "21  Eat a Lot.md",
+    "22  Pessimists Die Knowing Only That They Were Correct. Optimists Thrive.md",
+    "20 Law of writing online.md",
+    "20  Don’t Be an Asshole.md",
+    "19  Make Something into Something.md",
+    "13  Find Your People.md",
+    "18  Creativity Cannot Abide Preciousness.md",
+    "17  Know Your Story. Tell Your Story. Listen to Your Story.md",
+    "16  Feed Yourself a Compliment Sandwich.md",
+    "00Compliment Box.md"
+  ]
+}
